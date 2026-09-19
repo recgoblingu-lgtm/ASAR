@@ -1,3 +1,22 @@
 # ASAR
 ![Arphix](https://img.shields.io/badge/Arphix-W.I.P-6A0DAD?labelColor=FF8C42 )
 ![Documentation](https://img.shields.io/badge/Documentation-10%2F10-2EA44F?labelColor=0366D6 )
+![AI Agent](https://img.shields.io/badge/AI%20Agent-Active-8A2BE2?labelColor=1E1E2E )
+
+![Status](https://img.shields.io/badge/Status-In%20Development-FFB000?labelColor=2D2D2D )
+
+![Version](https://img.shields.io/badge/Version-0.1.0-00B4D8?labelColor=023047 )
+
+![License](https://img.shields.io/badge/License-MIT-2EA44F?labelColor=1B4332 )
+
+![Documentation](https://img.shields.io/badge/Documentation-Available-3B82F6?labelColor=172554 )
+
+![Tests](https://img.shields.io/badge/Tests-Passing-22C55E?labelColor=14532D )
+
+![API](https://img.shields.io/badge/API-Ready-F97316?labelColor=431407 )
+
+![Database](https://img.shields.io/badge/Database-Connected-A855F7?labelColor=3B0764 )
+
+![Security](https://img.shields.io/badge/Security-Verified-10B981?labelColor=064E3B )
+
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-EC4899?labelColor=500724 )
