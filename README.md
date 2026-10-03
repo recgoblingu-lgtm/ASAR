@@ -18,3 +18,8 @@ FOSS means that our code is open to everyone — you are free to use, modify, an
 However, this freedom comes with responsibility. You **must not use this software for illegal or harmful purposes**. By using our code, you agree that you are responsible for your own actions.
 
 We provide this project **as-is**, without any guarantees or warranties. We are not liable for any damage, misuse, or consequences that may result from using this software.
+
+Welcome to ASAR, we offer course classes on cybersecurity, ethical hacking, and rec room revival server making! Join us today!
+
+DISCLAIMER : 
+All courses and software provided is free with no cost.
